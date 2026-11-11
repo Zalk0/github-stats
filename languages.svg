@@ -134,49 +134,49 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #3178c6; 
-  width: 19.275%;
+  width: 19.310%;
 " class="progress-item"></span><span style="
   background-color: #00ADD8; 
-  width: 17.558%;
+  width: 17.546%;
 " class="progress-item"></span><span style="
   background-color: #4F5D95; 
-  width: 15.814%;
+  width: 15.804%;
 " class="progress-item"></span><span style="
   background-color: #DA5B0B; 
-  width: 13.321%;
+  width: 13.312%;
 " class="progress-item"></span><span style="
   background-color: #ff3e00; 
-  width: 9.864%;
+  width: 9.874%;
 " class="progress-item"></span><span style="
   background-color: #c1d026; 
-  width: 6.755%;
+  width: 6.751%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 5.693%;
+  width: 5.689%;
 " class="progress-item"></span><span style="
   background-color: #b07219; 
-  width: 2.843%;
+  width: 2.841%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 2.551%;
+  width: 2.549%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 1.530%;
+  width: 1.529%;
 " class="progress-item"></span><span style="
   background-color: #c6538c; 
-  width: 0.878%;
+  width: 0.877%;
 " class="progress-item"></span><span style="
   background-color: #5686a5; 
-  width: 0.697%;
+  width: 0.696%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
   width: 0.682%;
 " class="progress-item"></span><span style="
   background-color: #ec915c; 
-  width: 0.647%;
+  width: 0.646%;
 " class="progress-item"></span><span style="
   background-color: #3D6117; 
-  width: 0.460%;
+  width: 0.459%;
 " class="progress-item"></span><span style="
   background-color: #012456; 
   width: 0.386%;
@@ -191,10 +191,10 @@ div.ellipsis {
   width: 0.119%;
 " class="progress-item"></span><span style="
   background-color: #384d54; 
-  width: 0.111%;
+  width: 0.110%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
-  width: 0.086%;
+  width: 0.085%;
 " class="progress-item"></span><span style="
   background-color: #a52a22; 
   width: 0.081%;
@@ -230,7 +230,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
-  <span class="percent">19.27%</span>
+  <span class="percent">19.31%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -246,7 +246,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Go</span>
-  <span class="percent">17.56%</span>
+  <span class="percent">17.55%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -262,7 +262,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">PHP</span>
-  <span class="percent">15.81%</span>
+  <span class="percent">15.80%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -278,7 +278,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Jupyter Notebook</span>
-  <span class="percent">13.32%</span>
+  <span class="percent">13.31%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
@@ -294,7 +294,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Svelte</span>
-  <span class="percent">9.86%</span>
+  <span class="percent">9.87%</span>
 </li>
 <li style="animation-delay: 900ms;">
   <svg 
@@ -310,7 +310,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Twig</span>
-  <span class="percent">6.76%</span>
+  <span class="percent">6.75%</span>
 </li>
 <li style="animation-delay: 1050ms;">
   <svg 
